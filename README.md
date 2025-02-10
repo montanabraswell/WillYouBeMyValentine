@@ -1,2 +1,2 @@
 # WillYouBeMyValentine
-Asking someone to be their valentine
+Small web app asking someone to be their valentine
